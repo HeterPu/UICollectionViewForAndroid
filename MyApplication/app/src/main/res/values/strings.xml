@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">IOS UICollectionView</string>
-    <string name="header_name">Hello Header</string>
-    <string name="footer_name">Hello footer</string>
-    <string name="row_name">Hello cell</string>
-</resources>
